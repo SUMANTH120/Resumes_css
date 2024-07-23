@@ -1,0 +1,21 @@
+h1 {
+    color:blue;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+p {
+    color: yellowgreen;
+}
+#tab {
+    color: blue;
+}
+h2{
+    color: violet;
+}
+#col {
+    color: cadetblue;
+}
+h4 {
+    color: coral;
+}
